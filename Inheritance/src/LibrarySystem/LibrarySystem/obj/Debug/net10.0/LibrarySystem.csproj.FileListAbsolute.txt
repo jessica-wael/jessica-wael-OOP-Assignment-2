@@ -1,0 +1,16 @@
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\bin\Debug\net10.0\LibrarySystem.exe
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\bin\Debug\net10.0\LibrarySystem.deps.json
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\bin\Debug\net10.0\LibrarySystem.runtimeconfig.json
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\bin\Debug\net10.0\LibrarySystem.dll
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\bin\Debug\net10.0\LibrarySystem.pdb
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.AssemblyInfoInputs.cache
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.AssemblyInfo.cs
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.csproj.CoreCompileInputs.cache
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.sourcelink.json
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.dll
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\refint\LibrarySystem.dll
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.pdb
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibrarySystem.genruntimeconfig.cache
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\ref\LibrarySystem.dll
+E:\OOP Assignment2\jessica-wael-OOP-Assignment-2\Inheritance\src\LibrarySystem\LibrarySystem\obj\Debug\net10.0\LibraryS.702885DD.Up2Date
